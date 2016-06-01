@@ -1,0 +1,44 @@
+STATS
+
+Zeilenweise abscannen
+---------------------
+
+Time needed: 263.57 s, Min: 263.57 s, Max: 263.57 s
+Distance travelled: 481.60 s, Min: 481.60 s, Max: 481.60 s
+Total rotation: 1980.00 s, Min: 1980.00 s, Max: 1980.00 s
+1st object found after: 60.78 s, Min: 13.53 s, Max: 127.93 s
+2nd object found after: 105.77 s, Min: 47.13 s, Max: 189.53 s
+3rd object found after: 183.79 s, Min: 105.57 s, Max: 221.93 s
+
+
+Geraden präferieren (VIEL Überlappung!)
+-------------------
+
+Time needed: 351.20 s, Min: 333.67 s, Max: 379.23 s
+Distance travelled: 686.60 s, Min: 650.68 s, Max: 744.68 s
+Total rotation: 11628.26 s, Min: 10566.60 s, Max: 12385.60 s
+1st object found after: 99.60 s, Min: 0.00 s, Max: 224.97 s
+2nd object found after: 154.31 s, Min: 11.63 s, Max: 268.50 s
+3rd object found after: 267.57 s, Min: 199.53 s, Max: 326.73 s
+
+
+Konzentrische Kreise
+--------------------
+
+Time needed: 573.76 s, Min: 471.90 s, Max: 664.03 s
+Distance travelled: 1147.46 s, Min: 943.73 s, Max: 1328.00 s
+Total rotation: 4856.98 s, Min: 4148.60 s, Max: 5565.70 s
+1st object found after: 82.60 s, Min: 28.37 s, Max: 167.90 s
+2nd object found after: 190.50 s, Min: 46.53 s, Max: 288.13 s
+3rd object found after: 280.38 s, Min: 160.27 s, Max: 356.57 s
+
+
+SRT
+---
+
+Time needed: 1112.62 s, Min: 1101.43 s, Max: 1128.60 s
+Distance travelled: 1763.69 s, Min: 1738.74 s, Max: 1798.11 s
+Total rotation: 36572.32 s, Min: 35098.10 s, Max: 38296.80 s
+1st object found after: 31.44 s, Min: 1.13 s, Max: 81.27 s
+2nd object found after: 104.95 s, Min: 13.47 s, Max: 273.93 s
+3rd object found after: 470.57 s, Min: 146.87 s, Max: 1046.63 s

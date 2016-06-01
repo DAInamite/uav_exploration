@@ -1,0 +1,17 @@
+<launch>
+
+    <node pkg="exploration" type="exploration_node2.py" name="exploration">
+    
+        <param name="field_of_view_h" value="58" />
+        <param name="field_of_view_v" value="45" />
+        <param name="camera_rotation" value="-45" />
+        <param name="altitude" value="1.75" />
+        <param name="translation_speed" value="1" />
+        <param name="rotation_speed" value="40" />
+
+        <!-- <param name="param" value="expr" /> -->
+        <!-- <rosparam file="$(find exploration)/filename.yaml" /> -->
+        
+    </node>
+
+</launch>
