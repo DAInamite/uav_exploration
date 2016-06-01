@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package>
-  <name>exploration</name>
+  <name>uav_exploration</name>
   <version>0.0.0</version>
-  <description>The exploration package</description>
+  <description>A UAV specific exploration package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
   <!-- Example:  -->
